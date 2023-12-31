@@ -1,0 +1,52 @@
+#navcomponents{
+    color: black;
+    font-size: 25px;
+    text-decoration: none;
+    font-weight: bold;
+}
+#navcomponents:hover{
+    color: rgb(47, 47, 47);
+}
+#navbar {
+    background-color: rgb(204, 204, 204);
+}
+#buttons-container{
+    margin-right: 30px;
+}
+#Btn{
+    width: 100px;
+}
+#textb{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+/* css of buttons */
+#container1
+{
+    margin-right: 30px;
+}
+.btn
+{
+    width: 100px;
+}
+#btn
+{
+    color: white;
+    text-decoration: none;
+}
+
+
+/* Navbar.css */
+.navbar {
+    background-color: #ffffff;
+    padding: 15px;
+    transition: background-color  ease;
+  }
+  
+  .navbar.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
